@@ -1,0 +1,27 @@
+E:\Skill learning\OOP\KK3market\KK3market\bin\Debug\KK3market.exe.config
+E:\Skill learning\OOP\KK3market\KK3market\bin\Debug\KK3market.exe
+E:\Skill learning\OOP\KK3market\KK3market\bin\Debug\KK3market.pdb
+E:\Skill learning\OOP\KK3market\KK3market\obj\Debug\KK3market.csprojAssemblyReference.cache
+E:\Skill learning\OOP\KK3market\KK3market\obj\Debug\KK3market.Properties.Resources.resources
+E:\Skill learning\OOP\KK3market\KK3market\obj\Debug\KK3market.csproj.GenerateResource.cache
+E:\Skill learning\OOP\KK3market\KK3market\obj\Debug\KK3market.csproj.CoreCompileInputs.cache
+E:\Skill learning\OOP\KK3market\KK3market\obj\Debug\KK3market.exe
+E:\Skill learning\OOP\KK3market\KK3market\obj\Debug\KK3market.pdb
+E:\Skill learning\OOP\KK3market\KK3market\obj\Debug\KK3market.loginForm.resources
+E:\Skill learning\OOP\KK3market\KK3market\obj\Debug\KK3market.regForm.resources
+E:\Skill\OOP\KK3market\KK3market\bin\Debug\KK3market.exe.config
+E:\Skill\OOP\KK3market\KK3market\bin\Debug\KK3market.exe
+E:\Skill\OOP\KK3market\KK3market\bin\Debug\KK3market.pdb
+E:\Skill\OOP\KK3market\KK3market\obj\Debug\KK3market.csprojAssemblyReference.cache
+E:\Skill\OOP\KK3market\KK3market\obj\Debug\KK3market.loginForm.resources
+E:\Skill\OOP\KK3market\KK3market\obj\Debug\KK3market.regForm.resources
+E:\Skill\OOP\KK3market\KK3market\obj\Debug\KK3market.Properties.Resources.resources
+E:\Skill\OOP\KK3market\KK3market\obj\Debug\KK3market.csproj.GenerateResource.cache
+E:\Skill\OOP\KK3market\KK3market\obj\Debug\KK3market.csproj.CoreCompileInputs.cache
+E:\Skill\OOP\KK3market\KK3market\obj\Debug\KK3market.exe
+E:\Skill\OOP\KK3market\KK3market\obj\Debug\KK3market.pdb
+E:\Skill\OOP\KK3market\KK3market\bin\Debug\BCrypt.Net.dll
+E:\Skill\OOP\KK3market\KK3market\bin\Debug\BCrypt.Net.xml
+E:\Skill\OOP\KK3market\KK3market\obj\Debug\KK3market.csproj.CopyComplete
+E:\Skill\OOP\KK3market\KK3market\obj\Debug\KK3market.mainForm.resources
+E:\Skill\OOP\KK3market\KK3market\obj\Debug\KK3market.admLogin.resources
